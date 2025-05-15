@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Termux specific
+*.deb
+*.apk
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment
+venv/
+.env/
+.envrc
+
+# SpotDL and yt-dlp cache
+~/.cache/
+~/.spotdl/
