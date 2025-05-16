@@ -4,7 +4,7 @@ from rich.console import Console from rich.panel import Panel from rich.prompt i
 
 console = Console() DOWNLOAD_HISTORY = []
 
-🔐 Developer signature (for protection)
+#🔐 Developer signature (for protection)
 
 DEVELOPER_SIGNATURE = "ryo_sukuna_2004"
 
