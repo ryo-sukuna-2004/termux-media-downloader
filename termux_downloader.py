@@ -1,4 +1,4 @@
-🔖 Developed by ryo_sukuna_2004 | All rights reserved 🔒
+#🔖 Developed by ryo_sukuna_2004 | All rights reserved 🔒
 
 from rich.console import Console from rich.panel import Panel from rich.prompt import Prompt, Confirm from rich.table import Table import os import subprocess import time
 
